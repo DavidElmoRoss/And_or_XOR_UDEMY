@@ -14,7 +14,7 @@ int main()
    d = a | b ;
    e = c ^ d ;
   
-   printf("a=%X\tb=%X\tc=%X\td=%X\te=%C",a,b,c,d,e);
+   printf("a=%X\tb=%X\tc=%X\td=%X\te=%X",a,b,c,d,e);
    for(;;);
 
 }
